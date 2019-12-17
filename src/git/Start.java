@@ -6,6 +6,13 @@ public class Start {
 
 		
 		System.out.println("Hola");
+		
+		System.out.println(".................");
+		System.out.println(".................");
+		System.out.println(".................");
+		System.out.println(".................");
+		System.out.println(".................");
+
 	}
 
 }
